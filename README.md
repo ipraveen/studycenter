@@ -2,7 +2,7 @@
 This a starter kit for react, with Dev and prod options
 
 
-## How to run?
+### How to run?
 #### Three simple steps
 
 1. Clone this repo
@@ -13,7 +13,7 @@ This a starter kit for react, with Dev and prod options
 
 1. Run `npm build`
 
-## Tech stack
+### Tech stack
 
 Tech | Version | Description
 --- | --- | ---
