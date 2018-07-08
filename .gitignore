@@ -1,7 +1,6 @@
 node_modules/
 bower_components/
 dist/
-build/
 buildsystem-test-results/
 src/styles/
 .sass-cache
