@@ -104,20 +104,28 @@ export default class QuestionsControllers extends Component {
         if (showStatusPage === true) {
             return (
                 <div className="objective-questions">
-                    <QuizStatus
-                        questionIndex={questionIndex}
-                        rightAnsCount={rightAnsCount}
-                        wrongAnsCount={wrongAnsCount}
-                    />
+                    <div className="container">
+                        <QuizStatus
+                            questionIndex={questionIndex}
+                            rightAnsCount={rightAnsCount}
+                            wrongAnsCount={wrongAnsCount}
+                        />
+                    </div>
                 </div>
             );
         }
         return (
             <div className="objective-questions">
-                <Header questionIndex={questionIndex + 1} rightAnsCount={rightAnsCount} wrongAnsCount={wrongAnsCount} />
-                {this.renderQuestions()}
-                {this.renderNavigation()}
-                {canRenderInfoSection && this.renderInfoSection(question.info)}
+                <div className="container">
+                    <Header
+                        questionIndex={questionIndex + 1}
+                        rightAnsCount={rightAnsCount}
+                        wrongAnsCount={wrongAnsCount}
+                    />
+                    {this.renderQuestions()}
+                    {this.renderNavigation()}
+                    {canRenderInfoSection && this.renderInfoSection(question.info)}
+                </div>
             </div>
         );
     }

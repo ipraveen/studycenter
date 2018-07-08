@@ -35,14 +35,10 @@ class App extends React.Component {
         const pathTokens = this.tokenizePath(location.hash);
         this.setState({ pathTokens });
         const { id } = pathTokens;
-        doGet(`/data/${id}.json`).then(nodes => {
+        doGet(`/api/${id}.json`).then(nodes => {
             const setQuestions = getSetQuestions(nodes);
             this.setState({ nodes, setQuestions, id });
         });
-
-        // if (CATAGORY_ROUTES.indexOf(pathName) >= 0) {
-        //     this.setState({ catalogFilter: type });
-        // }
     };
 
     componentDidMount() {

@@ -5,11 +5,8 @@ var path = require("path");
 var public = path.join(__dirname, "public");
 
 function setup(app) {
-    // app.get('/data/javascript.json', function(req, res) {
-    //     res.json({ custom: 'response' });
-    //   });
-
-    app.use("/", express.static(public));
+    app.use("/api", express.static(path.join(__dirname, "src/api")));
+    app.use("/images", express.static(path.join(__dirname, "src/images")));
 }
 
 module.exports = merge(common, {

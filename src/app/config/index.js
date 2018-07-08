@@ -7,7 +7,7 @@ export const topics = [
         id: "word",
         label: "Words",
         logo: "images/words-logo.jpg",
-        options: [QUIZ, CARDS]
+        options: [QUIZ]
     },
     {
         id: "javascript",

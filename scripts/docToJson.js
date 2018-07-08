@@ -43,7 +43,7 @@ function shuffle(array) {
 }
 
 function processSections(type, sections) {
-    if (type === "words") {
+    if (type === "word") {
         return sections.map((section, index) => {
             const newSection = { ...section };
             const options = [];
@@ -146,7 +146,7 @@ function main(type) {
         .on("close", () => {
             sections = processSections(type, sections);
 
-            writeFile(`${__dirname}/../public/data/${type}.json`, JSON.stringify(sections));
+            writeFile(`${__dirname}/../src/api/${type}.json`, JSON.stringify(sections));
             process.exit(0);
         });
 }
