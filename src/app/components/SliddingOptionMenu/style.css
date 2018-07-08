@@ -53,6 +53,7 @@
 }
 
 .options-overlay {
+    display: -webkit-grid;
     display: grid;
     position: absolute;
     z-index: 10;

@@ -18,10 +18,23 @@
 .trowser > footer {
     background-color: rgb(64, 95, 107);
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 0 4px 8px rgba(0, 0, 0, 0.28);
-    height: 42px;
     width: 100%;
-    position: absolute;
-    bottom: 0;
     text-align: center;
-    padding: 10px;
+}
+
+.trowser > .content {
+    margin-top: 50px;
+    min-height: calc(100% - 50px);
+    margin-bottom: -50px;
+}
+
+.trowser > .content:after {
+    content: "";
+    display: block;
+}
+
+.trowser > footer,
+.trowser > .content:after {
+    height: 50px;
+    line-height: 50px;
 }

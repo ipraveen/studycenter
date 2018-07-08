@@ -2,7 +2,7 @@
     background-color: white;
     vertical-align: middle;
     padding: 50px;
-    margin: 100px;
+    /* margin: 100px 0 0 0; */
 }
 
 @media only screen and (max-device-width: 768px) {

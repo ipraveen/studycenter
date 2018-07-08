@@ -32,7 +32,7 @@ export default class Trowser extends React.Component {
         const displayClass = display === true ? " display" : "";
         return (
             <div className={`trowser${displayClass}`}>
-                {this.props.children}
+                <div className="content">{this.props.children}</div>
                 <footer>
                     <button onClick={this.handleClose}> CLOSE</button>
                 </footer>
