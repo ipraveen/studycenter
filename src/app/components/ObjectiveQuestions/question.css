@@ -5,6 +5,14 @@
     margin: 100px;
 }
 
+@media only screen and (max-device-width: 768px) {
+    .objective-questions {
+        padding: 0;
+        margin: 1rem;
+        margin-top: 100px;
+    }
+}
+
 pre {
     width: 90% !important;
 }
@@ -58,11 +66,19 @@ pre {
     text-align: center;
     font-size: 3rem;
     font-weight: bolder;
+    color: cadetblue;
+}
+.score-label {
+    text-transform: uppercase;
+    text-align: center;
+    color: gray;
+    display: block;
 }
 
 .score-table {
     width: 50%;
     margin: 0 auto;
+    color: #8a8282;
 }
 
 .badge {

@@ -7,3 +7,12 @@
     margin: auto;
     display: inline-block;
 }
+.option-wrraper {
+    float: left;
+}
+
+@media only screen and (max-device-width: 448px) {
+    .option-wrraper {
+        float: none;
+    }
+}

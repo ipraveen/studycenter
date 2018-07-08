@@ -10,7 +10,7 @@ export default class Home extends React.Component {
                 <div className="home">
                     <div className="content">
                         {topics.map(topic => (
-                            <div key={topic.id} className="float-left">
+                            <div key={topic.id} className="option-wrraper">
                                 <SliddingOptionMenu topic={topic} />{" "}
                             </div>
                         ))}

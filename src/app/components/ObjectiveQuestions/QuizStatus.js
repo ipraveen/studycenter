@@ -6,8 +6,7 @@ export default class QuizStatus extends React.Component {
         const score = Math.round((rightAnsCount / questionIndex) * 100 * 100) / 100;
         return (
             <div>
-                <p>You score is</p>
-                <h1 className="score"> {score} %</h1>
+                <h1 className="score">{score} %</h1>
                 <div className="table score-table">
                     <div className="row">
                         <div className="col">Question attempted</div>
