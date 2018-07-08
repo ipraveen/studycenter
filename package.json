@@ -1,7 +1,7 @@
 {
-    "name": "react-starter-dev-kit",
+    "name": "studycenter",
     "version": "1.0.0",
-    "description": "React starter kit for dev environment",
+    "description": "studycenter",
     "private": true,
     "scripts": {
         "parse-all": "npm run parse word;npm run parse javascript;",
