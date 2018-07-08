@@ -1,0 +1,9 @@
+.home {
+    min-height: 400px;
+    display: grid;
+}
+
+.home .content {
+    margin: auto;
+    display: inline-block;
+}

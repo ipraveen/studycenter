@@ -1,0 +1,11 @@
+.app {
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    min-width: 400px;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    line-height: 1.6em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

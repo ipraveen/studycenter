@@ -1,0 +1,104 @@
+.objective-questions {
+    background-color: white;
+    vertical-align: middle;
+    padding: 50px;
+    margin: 100px;
+}
+
+pre {
+    width: 90% !important;
+}
+
+.options {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.options li {
+    margin: 7px 0;
+    line-height: 30px;
+    font-size: 1rem;
+}
+
+.options label {
+    margin-left: 14px;
+    font-size: 1rem;
+}
+
+.question h2 {
+    text-transform: capitalize;
+    color: darkslategray;
+}
+
+.options.ans-mode {
+    pointer-events: none;
+}
+
+.options.ans-mode li {
+    padding: 6px 0 6px 15px;
+    pointer-events: none;
+}
+
+.checked {
+    background-color: #f3060657;
+    padding: 6px 2px;
+}
+
+.right-ans,
+.right-ans.checked {
+    background-color: #00800024;
+    padding: 6px 2px;
+}
+
+.answer-count {
+    margin-left: 10px;
+}
+
+.score {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.score-table {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.badge {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    line-height: 40px;
+    font-weight: bolder;
+    color: #000000;
+    background-color: rgb(218, 212, 212);
+    font-style: normal;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.info-link {
+    color: deepskyblue;
+    font-weight: bold;
+    margin-left: 11px;
+}
+
+.info-section {
+    margin: 10px 0 0 0;
+    color: darkslategray;
+    border: 1px solid #d4be68;
+    padding: 6px 10px;
+    background-color: cornsilk;
+}
+
+.badge.green {
+    color: green;
+    background-color: rgb(212, 220, 212);
+}
+
+.badge.red {
+    color: red;
+    background-color: rgb(236, 182, 182);
+}

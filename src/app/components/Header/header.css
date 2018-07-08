@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(64, 95, 107);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 0 4px 8px rgba(0, 0, 0, 0.28);
+    color: #ffffff;
+    height: 42px;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+.logo {
+    font-size: 22px;
+    padding: 10px 15px;
+}
+.logo a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 500;
+}

@@ -1,0 +1,15 @@
+.error-banner {
+    width: 800px;
+    border: 2px solid rgba(255, 0, 0, 0.323);
+    background-color: white;
+    color: red;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.error-banner pre {
+    background-color: rgb(241, 235, 235);
+    margin-top: 20px;
+    padding: 10px;
+    color: gray;
+}

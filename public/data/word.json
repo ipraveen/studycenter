@@ -1,0 +1,665 @@
+[
+    {
+        "id": "d79b4fa0-824e-11e8-8776-1fafaf328a1b",
+        "question": "comprehend",
+        "ans": [
+            { "value": "the suffering and death of a martyr.", "isTrue": false },
+            { "value": "to cause an angry, harmful, or violent action or feeling", "isTrue": false },
+            { "value": "to support, strengthen, or defend (something)", "isTrue": false },
+            { "value": "to understand something completely, often bit difficult.", "isTrue": true }
+        ],
+        "examples": [
+            "He is able to fully comprehend what is happening and react appropriately.",
+            "When you strive to comprehend your code, you create better work and become better at what you do"
+        ]
+    },
+    {
+        "id": "d7a67330-824e-11e8-8776-1fafaf328a1b",
+        "question": "exploitation",
+        "ans": [
+            { "value": "to understand something completely, often bit difficult.", "isTrue": false },
+            { "value": "to turn the pages of (a book, magazine, etc.) quickly", "isTrue": false },
+            { "value": "the act of using someone unfairly for your own advantage", "isTrue": true },
+            { "value": "the suffering and death of a martyr.", "isTrue": false }
+        ],
+        "examples": [
+            "Exploitation of colonies leaves them at a disadvantage and makes the colonizing nations more wealthy and powerful."
+        ]
+    },
+    {
+        "id": "d7a67331-824e-11e8-8776-1fafaf328a1b",
+        "question": "metaphor",
+        "ans": [
+            {
+                "value": "not clear in meaning; not thinking or expressing your thoughts clearly or precisely;",
+                "isTrue": false
+            },
+            { "value": "done before someone else can do it", "isTrue": false },
+            { "value": "the advocacy of women's rights on the ground of the equality of the sexes.", "isTrue": false },
+            {
+                "value":
+                    "An expression, often found in literature, that describes a person or object by referring to something that is considered to have similar characteristics to that person or object",
+                "isTrue": true
+            }
+        ],
+        "examples": ["The mind is an ocean.", "the city is a jungle."]
+    },
+    {
+        "id": "d7a67332-824e-11e8-8776-1fafaf328a1b",
+        "question": "preemptive",
+        "ans": [
+            { "value": "a quality that makes one person or thing different from another", "isTrue": false },
+            { "value": "done before someone else can do it", "isTrue": true },
+            {
+                "value": "A question : asked in order to make a statement rather than to get an answer.",
+                "isTrue": false
+            },
+            {
+                "value": "not clear in meaning; not thinking or expressing your thoughts clearly or precisely;",
+                "isTrue": false
+            }
+        ],
+        "examples": ["Just as Martha was about to take the only cookie left on the table, Noah preemptively swiped it."]
+    },
+    {
+        "id": "d7a67333-824e-11e8-8776-1fafaf328a1b",
+        "question": "taxing",
+        "ans": [
+            { "value": "a quality that makes one person or thing different from another", "isTrue": false },
+            { "value": "the act of using someone unfairly for your own advantage", "isTrue": false },
+            { "value": "use to the limit; exhaust", "isTrue": true },
+            { "value": "causing a feeling of great surprise or wonder : causing astonishment", "isTrue": false }
+        ],
+        "examples": ["The hike to the summit of Mt. Whitney was so taxing that I could barely speak or stand up."]
+    },
+    {
+        "id": "d7a67334-824e-11e8-8776-1fafaf328a1b",
+        "question": "disingenuous",
+        "ans": [
+            { "value": "the meaning and interpretation of words, signs and sentence structure.", "isTrue": false },
+            { "value": "a short line with many curves : a short, wavy line.", "isTrue": false },
+            {
+                "value": "not truly honest or sincere : giving the false appearance of being honest or sincere",
+                "isTrue": true
+            },
+            { "value": "to agree with someone or something", "isTrue": false }
+        ],
+        "examples": [
+            "That advertisement is demeaning to women.",
+            "Her statement demeans the hard work the group has done."
+        ]
+    },
+    {
+        "id": "d7a67335-824e-11e8-8776-1fafaf328a1b",
+        "question": "demeaning",
+        "ans": [
+            { "value": "said or done in a forceful or definite way; resounding", "isTrue": false },
+            { "value": "to ignore (someone) in a deliberate and insulting way", "isTrue": false },
+            { "value": "causing someone to become or feel less respected:", "isTrue": true },
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false }
+        ],
+        "examples": [
+            "That advertisement is demeaning to women.",
+            "Her statement demeans the hard work the group has done."
+        ]
+    },
+    {
+        "id": "d7a67336-824e-11e8-8776-1fafaf328a1b",
+        "question": "caveat",
+        "ans": [
+            { "value": "to agree with someone or something", "isTrue": false },
+            {
+                "value":
+                    "a tall, thick stone or dirt wall that is built around a castle, town, etc., to protect it from attacks",
+                "isTrue": false
+            },
+            { "value": "a quality that makes one person or thing different from another", "isTrue": false },
+            {
+                "value": "an warning that should be remembered when you are doing or thinking about something",
+                "isTrue": true
+            }
+        ],
+        "examples": [
+            "His investment advice comes with a caveat: that the stock market is impossible to predict with absolute accuracy."
+        ]
+    },
+    {
+        "id": "d7a67337-824e-11e8-8776-1fafaf328a1b",
+        "question": "Nuance",
+        "ans": [
+            { "value": "a very slight difference in appearance, meaning, sound, etc.", "isTrue": true },
+            { "value": "the suffering and death of a martyr.", "isTrue": false },
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false },
+            { "value": "to turn the pages of (a book, magazine, etc.) quickly", "isTrue": false }
+        ],
+        "examples": ["Actors have to study the nuances of facial expression to show the whole range of emotions."]
+    },
+    {
+        "id": "d7a67338-824e-11e8-8776-1fafaf328a1b",
+        "question": "Rhetorical",
+        "ans": [
+            { "value": "to make (someone) do something by using force or threats", "isTrue": false },
+            {
+                "value":
+                    "the action of passing through or across a place.; the carrying of people or things from one place to another.",
+                "isTrue": false
+            },
+            {
+                "value": "A question : asked in order to make a statement rather than to get an answer.",
+                "isTrue": true
+            },
+            { "value": "the meaning and interpretation of words, signs and sentence structure.", "isTrue": false }
+        ],
+        "examples": [
+            "\"Should we be leaving soon?” “Is that a rhetorical question?” [=is that a question you're asking as a way to say that we should be leaving soon?]",
+            "My question was rhetorical. I wasn't really expecting an answer."
+        ]
+    },
+    {
+        "id": "d7a67339-824e-11e8-8776-1fafaf328a1b",
+        "question": "Sparse",
+        "ans": [
+            {
+                "value":
+                    "Literally meaning a lack of claim to knowledge. Generally is referring to a lack of claim to knowledge about the possible existence of god(s). But can be used for anything in general.",
+                "isTrue": false
+            },
+            {
+                "value":
+                    "a situation in which many people behave or react in an extreme or uncontrolled way because of fear, anger, etc.",
+                "isTrue": false
+            },
+            { "value": "thinly dispersed or scattered.", "isTrue": true },
+            { "value": "a comparison of two things based on their being alike in some way", "isTrue": false }
+        ],
+        "examples": ["Areas of sparse population"]
+    },
+    {
+        "id": "d7a6733a-824e-11e8-8776-1fafaf328a1b",
+        "question": "Emphatic",
+        "ans": [
+            { "value": "said or done in a forceful or definite way; resounding", "isTrue": true },
+            { "value": "to support, strengthen, or defend (something)", "isTrue": false },
+            { "value": "very strongly felt; very great; absolute or complete", "isTrue": false },
+            { "value": "done before someone else can do it", "isTrue": false }
+        ],
+        "examples": ["Her answer was an emphatic “Yes!”", "It was a emphatic victory."]
+    },
+    {
+        "id": "d7a6733b-824e-11e8-8776-1fafaf328a1b",
+        "question": "Flimsy",
+        "ans": [
+            { "value": "a very slight difference in appearance, meaning, sound, etc.", "isTrue": false },
+            { "value": "a person who is killed or who suffers greatly for a religion, cause, etc.", "isTrue": false },
+            { "value": "easily broken, torn, etc. : not strong or solid", "isTrue": true },
+            { "value": "to make (someone) do something by using force or threats", "isTrue": false }
+        ],
+        "examples": ["They made a flimsy argument against me.", "flimsy construction."]
+    },
+    {
+        "id": "d7a6733c-824e-11e8-8776-1fafaf328a1b",
+        "question": "Vague",
+        "ans": [
+            { "value": "very harsh and critical", "isTrue": false },
+            { "value": "the feeling of no longer having any hope", "isTrue": false },
+            {
+                "value": "not clear in meaning; not thinking or expressing your thoughts clearly or precisely;",
+                "isTrue": true
+            },
+            { "value": "done before someone else can do it", "isTrue": false }
+        ],
+        "examples": [
+            "Millennial is an identity given to a broadly and vaguely defined group of people.",
+            "The instructions she left were vague and difficult to follow.",
+            "He gave only a vague answer.",
+            "The judges determined that the law was too vague to be fairly enforced.",
+            "When I asked him what they talked about, he was rather vague."
+        ]
+    },
+    {
+        "id": "d7a6733d-824e-11e8-8776-1fafaf328a1b",
+        "question": "squiggly",
+        "ans": [
+            { "value": "to support, strengthen, or defend (something)", "isTrue": false },
+            { "value": "a comparison of two things based on their being alike in some way", "isTrue": false },
+            {
+                "value":
+                    "Literally meaning a lack of claim to knowledge. Generally is referring to a lack of claim to knowledge about the possible existence of god(s). But can be used for anything in general.",
+                "isTrue": false
+            },
+            { "value": "a short line with many curves : a short, wavy line.", "isTrue": true }
+        ],
+        "examples": ["His handwriting looks like a bunch of squiggles."]
+    },
+    {
+        "id": "d7a6733e-824e-11e8-8776-1fafaf328a1b",
+        "question": "agnostic",
+        "ans": [
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false },
+            { "value": "to understand something completely, often bit difficult.", "isTrue": false },
+            { "value": "easily broken, torn, etc. : not strong or solid", "isTrue": false },
+            {
+                "value":
+                    "Literally meaning a lack of claim to knowledge. Generally is referring to a lack of claim to knowledge about the possible existence of god(s). But can be used for anything in general.",
+                "isTrue": true
+            }
+        ],
+        "examples": [
+            "With layer of separation, one layer could be agnostic of other.",
+            "Few are atheists or agnostics."
+        ]
+    },
+    {
+        "id": "d7a6733f-824e-11e8-8776-1fafaf328a1b",
+        "question": "analogy",
+        "ans": [
+            {
+                "value": "an warning that should be remembered when you are doing or thinking about something",
+                "isTrue": false
+            },
+            { "value": "a very slight difference in appearance, meaning, sound, etc.", "isTrue": false },
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false },
+            { "value": "a comparison of two things based on their being alike in some way", "isTrue": true }
+        ],
+        "examples": ["He drew/made an analogy between flying a kite and fishing."]
+    },
+    {
+        "id": "d7a67340-824e-11e8-8776-1fafaf328a1b",
+        "question": "take a stab at (something)",
+        "ans": [
+            { "value": "To attempt (to do) something", "isTrue": true },
+            {
+                "value":
+                    "someone (such as a teacher or parent) who goes with children on a trip or to a school dance to make sure that the children behave properly",
+                "isTrue": false
+            },
+            { "value": "a person who is killed or who suffers greatly for a religion, cause, etc.", "isTrue": false },
+            { "value": "done before someone else can do it", "isTrue": false }
+        ],
+        "examples": ["Sure, I'll take a stab at it."],
+        "code":
+            "derived from idiom \"stab in the dark\", meaning an attempt at something with little guidance or hope of success"
+    },
+    {
+        "id": "d7a67341-824e-11e8-8776-1fafaf328a1b",
+        "question": "thumb through",
+        "ans": [
+            { "value": "a very slight difference in appearance, meaning, sound, etc.", "isTrue": false },
+            { "value": "a person who is killed or who suffers greatly for a religion, cause, etc.", "isTrue": false },
+            { "value": "to turn the pages of (a book, magazine, etc.) quickly", "isTrue": true },
+            { "value": "a short line with many curves : a short, wavy line.", "isTrue": false }
+        ],
+        "examples": ["I thumbed through a magazine while I waited."]
+    },
+    {
+        "id": "d7a67342-824e-11e8-8776-1fafaf328a1b",
+        "question": "Feminism or Feminist",
+        "ans": [
+            {
+                "value":
+                    "a tall, thick stone or dirt wall that is built around a castle, town, etc., to protect it from attacks",
+                "isTrue": false
+            },
+            { "value": "the advocacy of women's rights on the ground of the equality of the sexes.", "isTrue": true },
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false },
+            {
+                "value":
+                    "a situation in which many people behave or react in an extreme or uncontrolled way because of fear, anger, etc.",
+                "isTrue": false
+            }
+        ],
+        "examples": ["the feminist movement"]
+    },
+    {
+        "id": "d7a67343-824e-11e8-8776-1fafaf328a1b",
+        "question": "snub",
+        "ans": [
+            { "value": "a comparison of two things based on their being alike in some way", "isTrue": false },
+            {
+                "value":
+                    "a situation in which many people behave or react in an extreme or uncontrolled way because of fear, anger, etc.",
+                "isTrue": false
+            },
+            { "value": "to ignore (someone) in a deliberate and insulting way", "isTrue": true },
+            { "value": "to turn the pages of (a book, magazine, etc.) quickly", "isTrue": false }
+        ],
+        "examples": ["She snubbed me in the hallway."]
+    },
+    {
+        "id": "d7a67344-824e-11e8-8776-1fafaf328a1b",
+        "question": "extrapolate",
+        "ans": [
+            { "value": "the feeling of no longer having any hope", "isTrue": false },
+            {
+                "value":
+                    "someone (such as a teacher or parent) who goes with children on a trip or to a school dance to make sure that the children behave properly",
+                "isTrue": false
+            },
+            { "value": "a person who is killed or who suffers greatly for a religion, cause, etc.", "isTrue": false },
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": true }
+        ],
+        "examples": [
+            "We can extrapolate the number of new students entering next year by looking at how many entered in previous years.",
+            "With such a small study it is impossible to extrapolate accurately."
+        ]
+    },
+    {
+        "id": "d7a67345-824e-11e8-8776-1fafaf328a1b",
+        "question": "transit",
+        "ans": [
+            { "value": "causing a feeling of great surprise or wonder : causing astonishment", "isTrue": false },
+            {
+                "value":
+                    "the action of passing through or across a place.; the carrying of people or things from one place to another.",
+                "isTrue": true
+            },
+            {
+                "value":
+                    "Literally meaning a lack of claim to knowledge. Generally is referring to a lack of claim to knowledge about the possible existence of god(s). But can be used for anything in general.",
+                "isTrue": false
+            },
+            { "value": "easily broken, torn, etc. : not strong or solid", "isTrue": false }
+        ],
+        "examples": ["With transit visa, you can pass by country."]
+    },
+    {
+        "id": "d7a67346-824e-11e8-8776-1fafaf328a1b",
+        "question": "incite",
+        "ans": [
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false },
+            { "value": "to cause an angry, harmful, or violent action or feeling", "isTrue": true },
+            { "value": "to agree with someone or something", "isTrue": false },
+            { "value": "causing someone to become or feel less respected:", "isTrue": false }
+        ],
+        "examples": [
+            "The victim had done nothing to incite [=provoke] the attackers.",
+            "They were clearly trying to incite the crowd to violence."
+        ]
+    },
+    {
+        "id": "d7a67347-824e-11e8-8776-1fafaf328a1b",
+        "question": "astonishing",
+        "ans": [
+            { "value": "causing someone to become or feel less respected:", "isTrue": false },
+            { "value": "causing a feeling of great surprise or wonder : causing astonishment", "isTrue": true },
+            { "value": "the suffering and death of a martyr.", "isTrue": false },
+            { "value": "to cause an angry, harmful, or violent action or feeling", "isTrue": false }
+        ],
+        "examples": ["She gave an astonishing performance in her first film.", "an astonishingly beautiful scene"]
+    },
+    {
+        "id": "d7a67348-824e-11e8-8776-1fafaf328a1b",
+        "question": "concur",
+        "ans": [
+            { "value": "a quality that makes one person or thing different from another", "isTrue": false },
+            { "value": "to support, strengthen, or defend (something)", "isTrue": false },
+            { "value": "to understand something completely, often bit difficult.", "isTrue": false },
+            { "value": "to agree with someone or something", "isTrue": true }
+        ],
+        "examples": ["We concur that more money should be spent on education.", "She concurred with the judge."]
+    },
+    {
+        "id": "d7a67349-824e-11e8-8776-1fafaf328a1b",
+        "question": "animosity",
+        "ans": [
+            { "value": "a short line with many curves : a short, wavy line.", "isTrue": false },
+            { "value": "the act of using someone unfairly for your own advantage", "isTrue": false },
+            { "value": "a strong feeling of dislike or hatred", "isTrue": true },
+            { "value": "done before someone else can do it", "isTrue": false }
+        ],
+        "examples": ["There has always been animosity between India and Pakistan."]
+    },
+    {
+        "id": "d7a6734a-824e-11e8-8776-1fafaf328a1b",
+        "question": "chaperone",
+        "ans": [
+            {
+                "value":
+                    "someone (such as a teacher or parent) who goes with children on a trip or to a school dance to make sure that the children behave properly",
+                "isTrue": true
+            },
+            { "value": "very strongly felt; very great; absolute or complete", "isTrue": false },
+            { "value": "As person who doesn't believe in god.", "isTrue": false },
+            { "value": "the act of using someone unfairly for your own advantage", "isTrue": false }
+        ],
+        "examples": ["I was a chaperone on one of my son's school trips."]
+    },
+    {
+        "id": "d7a6734b-824e-11e8-8776-1fafaf328a1b",
+        "question": "traits",
+        "ans": [
+            {
+                "value":
+                    "An expression, often found in literature, that describes a person or object by referring to something that is considered to have similar characteristics to that person or object",
+                "isTrue": false
+            },
+            { "value": "use to the limit; exhaust", "isTrue": false },
+            { "value": "causing a feeling of great surprise or wonder : causing astonishment", "isTrue": false },
+            { "value": "a quality that makes one person or thing different from another", "isTrue": true }
+        ],
+        "examples": ["Humility is an admirable trait."]
+    },
+    {
+        "id": "d7a6734c-824e-11e8-8776-1fafaf328a1b",
+        "question": "martyrdom",
+        "ans": [
+            { "value": "the suffering and death of a martyr.", "isTrue": true },
+            { "value": "thinly dispersed or scattered.", "isTrue": false },
+            {
+                "value":
+                    "the action of passing through or across a place.; the carrying of people or things from one place to another.",
+                "isTrue": false
+            },
+            {
+                "value":
+                    "a situation in which many people behave or react in an extreme or uncontrolled way because of fear, anger, etc.",
+                "isTrue": false
+            }
+        ],
+        "examples": ["He suffered martyrdom for his religious beliefs."]
+    },
+    {
+        "id": "d7a6734d-824e-11e8-8776-1fafaf328a1b",
+        "question": "martyr",
+        "ans": [
+            { "value": "the advocacy of women's rights on the ground of the equality of the sexes.", "isTrue": false },
+            { "value": "very strongly felt; very great; absolute or complete", "isTrue": false },
+            { "value": "to form an opinion or to make an estimate about something from known facts", "isTrue": false },
+            { "value": "a person who is killed or who suffers greatly for a religion, cause, etc.", "isTrue": true }
+        ],
+        "examples": ["They know that killing him will only make a martyr out of him."]
+    },
+    {
+        "id": "d7a6734e-824e-11e8-8776-1fafaf328a1b",
+        "question": "semantics",
+        "ans": [
+            { "value": "the meaning and interpretation of words, signs and sentence structure.", "isTrue": true },
+            { "value": "to cause an angry, harmful, or violent action or feeling", "isTrue": false },
+            { "value": "to drink quickly, eagerly, and usually in large amounts", "isTrue": false },
+            { "value": "the advocacy of women's rights on the ground of the equality of the sexes.", "isTrue": false }
+        ],
+        "examples": ["The whole controversy is a matter of semantics."]
+    },
+    {
+        "id": "d7a6734f-824e-11e8-8776-1fafaf328a1b",
+        "question": "guzzle",
+        "ans": [
+            { "value": "a strong feeling of dislike or hatred", "isTrue": false },
+            { "value": "very strongly felt; very great; absolute or complete", "isTrue": false },
+            { "value": "to cause an angry, harmful, or violent action or feeling", "isTrue": false },
+            { "value": "to drink quickly, eagerly, and usually in large amounts", "isTrue": true }
+        ],
+        "examples": ["He guzzled his beer and ordered another.", "Telecom business is a money guzzler."]
+    },
+    {
+        "id": "d7a67350-824e-11e8-8776-1fafaf328a1b",
+        "question": "snuggle",
+        "ans": [
+            { "value": "to lie or sit close together in a comfortable position", "isTrue": true },
+            { "value": "a person who is killed or who suffers greatly for a religion, cause, etc.", "isTrue": false },
+            {
+                "value":
+                    "a tall, thick stone or dirt wall that is built around a castle, town, etc., to protect it from attacks",
+                "isTrue": false
+            },
+            { "value": "to drink quickly, eagerly, and usually in large amounts", "isTrue": false }
+        ],
+        "examples": ["The puppy snuggled up against the sleeping boy.", "The boy snuggled close to his mother."]
+    },
+    {
+        "id": "d7a67351-824e-11e8-8776-1fafaf328a1b",
+        "question": "hysteria",
+        "ans": [
+            {
+                "value":
+                    "a situation in which many people behave or react in an extreme or uncontrolled way because of fear, anger, etc.",
+                "isTrue": true
+            },
+            {
+                "value":
+                    "An expression, often found in literature, that describes a person or object by referring to something that is considered to have similar characteristics to that person or object",
+                "isTrue": false
+            },
+            { "value": "a quality that makes one person or thing different from another", "isTrue": false },
+            {
+                "value":
+                    "someone (such as a teacher or parent) who goes with children on a trip or to a school dance to make sure that the children behave properly",
+                "isTrue": false
+            }
+        ],
+        "examples": [
+            "People were in hysteria after the death of their beloved actor.",
+            "A few of the children began to scream, and soon they were all caught up in the hysteria."
+        ]
+    },
+    {
+        "id": "d7a67352-824e-11e8-8776-1fafaf328a1b",
+        "question": "profound",
+        "ans": [
+            { "value": "easily broken, torn, etc. : not strong or solid", "isTrue": false },
+            { "value": "very strongly felt; very great; absolute or complete", "isTrue": true },
+            {
+                "value": "not clear in meaning; not thinking or expressing your thoughts clearly or precisely;",
+                "isTrue": false
+            },
+            { "value": "causing someone to become or feel less respected:", "isTrue": false }
+        ],
+        "examples": ["I profoundly apologize.", "a profound silence.", "a profound thinker."]
+    },
+    {
+        "id": "d7a67353-824e-11e8-8776-1fafaf328a1b",
+        "question": "coerce",
+        "ans": [
+            {
+                "value":
+                    "An expression, often found in literature, that describes a person or object by referring to something that is considered to have similar characteristics to that person or object",
+                "isTrue": false
+            },
+            {
+                "value": "not truly honest or sincere : giving the false appearance of being honest or sincere",
+                "isTrue": false
+            },
+            { "value": "to lie or sit close together in a comfortable position", "isTrue": false },
+            { "value": "to make (someone) do something by using force or threats", "isTrue": true }
+        ],
+        "examples": [
+            "He was coerced into signing the confession.",
+            "Soldiers coerced the residents into giving them food.",
+            "The singer was coerced into a contract with the record company."
+        ]
+    },
+    {
+        "id": "d7a67354-824e-11e8-8776-1fafaf328a1b",
+        "question": "Atheist",
+        "ans": [
+            { "value": "to cause an angry, harmful, or violent action or feeling", "isTrue": false },
+            {
+                "value":
+                    "a situation in which many people behave or react in an extreme or uncontrolled way because of fear, anger, etc.",
+                "isTrue": false
+            },
+            { "value": "to make (someone) do something by using force or threats", "isTrue": false },
+            { "value": "As person who doesn't believe in god.", "isTrue": true }
+        ]
+    },
+    {
+        "id": "d7a67355-824e-11e8-8776-1fafaf328a1b",
+        "question": "Caustic",
+        "ans": [
+            { "value": "the suffering and death of a martyr.", "isTrue": false },
+            { "value": "very strongly felt; very great; absolute or complete", "isTrue": false },
+            {
+                "value":
+                    "someone (such as a teacher or parent) who goes with children on a trip or to a school dance to make sure that the children behave properly",
+                "isTrue": false
+            },
+            { "value": "very harsh and critical", "isTrue": true }
+        ],
+        "examples": [
+            "caustic film reviews",
+            "She wrote a caustic report about the decisions that led to the crisis.",
+            "caustic humor/wit"
+        ]
+    },
+    {
+        "id": "d7a67356-824e-11e8-8776-1fafaf328a1b",
+        "question": "despair",
+        "ans": [
+            {
+                "value": "A question : asked in order to make a statement rather than to get an answer.",
+                "isTrue": false
+            },
+            { "value": "the feeling of no longer having any hope", "isTrue": true },
+            { "value": "the suffering and death of a martyr.", "isTrue": false },
+            { "value": "a comparison of two things based on their being alike in some way", "isTrue": false }
+        ],
+        "examples": [
+            "His despair nearly drove him mad.",
+            "She let out a cry of despair. [=desperation]",
+            "I was overcome by despair at being unable to find them."
+        ]
+    },
+    {
+        "id": "d7a67357-824e-11e8-8776-1fafaf328a1b",
+        "question": "Buttress",
+        "ans": [
+            { "value": "to support, strengthen, or defend (something)", "isTrue": true },
+            {
+                "value":
+                    "a tall, thick stone or dirt wall that is built around a castle, town, etc., to protect it from attacks",
+                "isTrue": false
+            },
+            {
+                "value":
+                    "someone (such as a teacher or parent) who goes with children on a trip or to a school dance to make sure that the children behave properly",
+                "isTrue": false
+            },
+            {
+                "value": "A question : asked in order to make a statement rather than to get an answer.",
+                "isTrue": false
+            }
+        ],
+        "examples": [
+            "The treaty will buttress the cause of peace.",
+            "The theory has been buttressed by the results of the experiment."
+        ]
+    },
+    {
+        "id": "d7a67358-824e-11e8-8776-1fafaf328a1b",
+        "question": "Ramparts",
+        "ans": [
+            { "value": "To attempt (to do) something", "isTrue": false },
+            {
+                "value": "an warning that should be remembered when you are doing or thinking about something",
+                "isTrue": false
+            },
+            { "value": "a short line with many curves : a short, wavy line.", "isTrue": false },
+            {
+                "value":
+                    "a tall, thick stone or dirt wall that is built around a castle, town, etc., to protect it from attacks",
+                "isTrue": true
+            }
+        ],
+        "examples": ["The city's ramparts crumbled long ago."]
+    }
+]

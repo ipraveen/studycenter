@@ -1,0 +1,73 @@
+.option-menu {
+    display: inline-block;
+    width: 300px;
+    border: 1px solid #eee;
+    box-shadow: 1px 1px 3px 0 #f2f2f2;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.option-menu h1 {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: gray;
+}
+
+.option-menu .logo {
+    height: 100px;
+    margin: 10px auto;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.options-overlay {
+    display: grid;
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 0;
+    background-color: transparent;
+    color: transparent;
+    visibility: 0;
+    transition: all 0.5s ease-out;
+}
+
+.option-menu:hover .options-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    height: 100%;
+}
+
+.option-menu .options-overlay a {
+    color: transparent;
+    text-decoration: none;
+}
+
+.option-menu:hover .options-overlay a {
+    color: white;
+}
+
+.options {
+    margin: auto;
+}
+
+.options .item {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+.options .item:nth-child(odd) {
+    border-bottom: 1px solid whitesmoke;
+}
+
+.options .item:last-child {
+    border: 0 !important;
+}
