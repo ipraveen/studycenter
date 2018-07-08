@@ -1,0 +1,137 @@
+/* COMMON */
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: black;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+
+.button,
+button,
+input[type="button"],
+input[type="file"],
+input[type="image"],
+input[type="reset"],
+input[type="submit"] {
+    border: 0;
+    border-radius: 2px;
+    box-shadow: none;
+    color: white;
+    background-color: #50656f;
+    cursor: pointer;
+    display: inline-block;
+    font: 600 14px/20px Roboto, sans-serif;
+    height: 36px;
+    margin: 0;
+    min-width: 36px;
+    outline: 0;
+    overflow: hidden;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    transition: background-color 0.2s, box-shadow 0.2s;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+pre {
+    background-color: #f7f6f6 !important;
+    border: 0 !important;
+    padding: 20px !important;
+}
+
+.table {
+    display: table;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 1em 0;
+}
+
+h4 {
+    font-size: 1.5rem;
+    margin: 1em 0;
+}
+
+p {
+    margin: 1em 0;
+    line-height: 1.5;
+}
+
+a {
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul li {
+    font-size: 1rem;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.row {
+    display: table-row;
+}
+
+.col {
+    display: table-cell;
+}
+
+.align.right {
+    text-align: right;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.gap {
+    display: block;
+    content: "";
+}
+
+.gap.vertical-10 {
+    height: 10px;
+}
+
+.gap.vertical-20 {
+    height: 20px;
+}
+
+.gap.vertical-30 {
+    height: 30px;
+}
+
+.gap.vertical-40 {
+    height: 40px;
+}
+
+.gap.vertical-50 {
+    height: 50px;
+}
+
+.gap.vertical-75 {
+    height: 75px;
+}

@@ -1,6 +1,6 @@
 export const QUIZ_QUESTIONS_COUNT = 5;
 export const QUIZ = "quiz";
-export const CARDS = "card";
+//export const CARDS = "card";
 
 export const topics = [
     {

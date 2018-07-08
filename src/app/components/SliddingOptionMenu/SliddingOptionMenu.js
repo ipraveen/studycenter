@@ -12,7 +12,7 @@ export default class SliddingOptionMenu extends React.Component {
                     {options.map(option => {
                         const href = `#display=trowser&id=${id}&type=${option}`;
                         return (
-                            <div className="item">
+                            <div key={option} className="item">
                                 <a href={href}>{option}</a>
                             </div>
                         );

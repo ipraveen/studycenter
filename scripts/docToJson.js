@@ -79,7 +79,7 @@ function writeFile(file, data) {
 }
 
 function main(type) {
-    const path = `${__dirname}/../data/${type}.md`;
+    const path = `${__dirname}/../catalog/${type}.md`;
     const myInterface = readline.createInterface({
         input: fs.createReadStream(path)
     });

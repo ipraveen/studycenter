@@ -35,10 +35,13 @@ class App extends React.Component {
         const pathTokens = this.tokenizePath(location.hash);
         this.setState({ pathTokens });
         const { id } = pathTokens;
-        doGet(`/api/${id}.json`).then(nodes => {
-            const setQuestions = getSetQuestions(nodes);
-            this.setState({ nodes, setQuestions, id });
-        });
+        console.log(pathTokens);
+        if (id) {
+            doGet(`/api/${id}.json`).then(nodes => {
+                const setQuestions = getSetQuestions(nodes);
+                this.setState({ nodes, setQuestions, id });
+            });
+        }
     };
 
     componentDidMount() {
