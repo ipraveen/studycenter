@@ -43,7 +43,7 @@ function shuffle(array) {
 }
 
 function processSections(type, sections) {
-    if (type === "word") {
+    if (type === "word" || type === "word-my") {
         return sections.map((section, index) => {
             const newSection = { ...section };
             const options = [];

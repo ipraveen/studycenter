@@ -1,3 +1,61 @@
+# What is the output of log statement?
+
+```
+"use strict";
+(function run(test) {
+    console.log(value);//...........1
+    if(test){
+        console.log(value);//.......2
+        let value = "scope";
+        console.log(value);//.......3
+    }
+    console.log(value);//...........4
+})(true);
+```
+
+1. 1, 2 and 3
+0. 1 and 4
+0. 1 and 2
+0. none, it will print "undefined undefined scope scope"
+
+>>>>
+
+# What is the output of log statement?
+
+```
+"use strict";
+(function run(test) {
+    console.log(value);//...........1
+    if(test){
+        console.log(value);//.......2
+        var value = "scope";
+        console.log(value);//.......3
+    }
+    console.log(value);//...........4
+})(true);
+```
+
+1. none, it will print "undefined undefined scope scope"
+0. 1 and 4
+0. 1 and 2
+0. code will fail to run
+
+>>>>
+
+# What is the output of log statement?
+
+```
+const b = 5;
+a = b;
+
+console.log(a);
+```
+
+1. 5 in general and ReferenceError in 'strict mode';
+0. ReferenceError
+0. syntax error
+
+>>>>
 # What is the output of below code?
 
 ```

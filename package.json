@@ -4,12 +4,13 @@
     "description": "studycenter",
     "private": true,
     "scripts": {
-        "parse-all": "npm run parse word;npm run parse javascript;",
+        "parse-all": "npm run parse word;npm run parse word-my;npm run parse javascript;",
         "parse": "babel-node scripts/docToJson.js",
         "precommit": "lint-staged",
         "copy": "cp public/data dist/data",
         "start": "webpack-dev-server  --open --config webpack.dev.js",
-        "build": "webpack --config webpack.prod.js"
+        "build": "webpack --config webpack.prod.js",
+        "publish": "git add .; git commit -m 'publish';git push"
     },
     "author": "Praveen Singh",
     "license": "ISC",
