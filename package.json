@@ -4,7 +4,7 @@
     "description": "studycenter",
     "private": true,
     "scripts": {
-        "parse-all": "npm run parse word;npm run parse word-my;npm run parse javascript;",
+        "parse-all": "npm run parse word;npm run parse javascript;",
         "parse": "babel-node scripts/docToJson.js",
         "precommit": "lint-staged",
         "copy": "cp public/data dist/data",

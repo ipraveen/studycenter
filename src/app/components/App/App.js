@@ -34,12 +34,12 @@ class App extends React.Component {
     handlePathChange = () => {
         const pathTokens = this.tokenizePath(location.hash);
         this.setState({ pathTokens });
-        let { id } = pathTokens;
+        const { id } = pathTokens;
 
-        const catlogOption = localStorage.getItem("showPersonalCatalog");
-        if (true === Boolean(catlogOption) && id === "word") {
-            id = "word-my";
-        }
+        // const catlogOption = localStorage.getItem("showPersonalCatalog");
+        // if (true === Boolean(catlogOption) && id === "word") {
+        //     id = "word-my";
+        // }
 
         if (id) {
             doGet(`/api/${id}.json`).then(nodes => {

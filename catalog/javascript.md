@@ -1,3 +1,65 @@
+# What will be the output of log in ES6+ environment?
+
+```
+function rest(first, ...others, last) {
+   console.log(first, others, last);
+}
+
+rest(1, 2, 3, 4);
+
+```
+
+1. Uncaught SyntaxError: Rest parameter must be last formal parameter
+0. 1, [2, 3], 4
+0. won't compile due to "..."
+0. 1, 2, 3, 4
+
+``
+Rest parameters have two restrictions. The first restriction is that there can be only one rest parameter, and the rest parameter must be last
+
+``
+
+>>>>
+
+# What will be the output of log?
+
+```
+function test(first, second, third, ...rest){}
+console.log(test.length);
+
+```
+
+1. 3
+0. 4
+0. 0
+0. undefined
+
+``
+function’s length property indicates the number of named parameters for the function. However, rest parameter doesn't affect that.
+
+``
+
+>>>>
+
+# What will be the logs?
+
+```
+function testArguments(test) {
+    console.log(test === arguments[0]);
+    test = "notA";
+    console.log(test === arguments[0]);
+}
+
+testArguments("a");
+
+```
+
+1. In normal mode: "true true" and in strict mode: "true false"
+0. Always "true true"
+0. Always "true false"
+0. ReferenceError for arguments
+
+>>>>
 # What is the output of log statement?
 
 ```
