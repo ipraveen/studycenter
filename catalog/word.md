@@ -1,3 +1,218 @@
+# bliss
+
+1. perfect happiness
+
+- Lying on a sunny beach is my idea of sheer bliss.
+
+>>>>
+# affluence
+
+1. the state of having a lot of money and possessions
+
+- This period saw the increase of real wages and affluence in British society.
+
+>>>>
+# enumerate
+
+1. to name things separately, one by one:
+
+- He enumerated the benefits of the insurance scheme.
+- The salesman enumerated the features of the car.
+
+>>>>
+# grif
+
+1. trouble or annoyance; deep sadness caused especially by someone's death;
+
+- In our experience, changes in law bring more grief than benefit.
+- He has been unable to recover from his grief at/over his son's death.
+
+>>>>
+# comprehensible
+
+1. able to be understood:
+
+- It's written in clear, comprehensible English.
+- Her writing is barely comprehensible to me.
+
+>>>>
+# God forbid
+
+1. a way of saying that you hope something does not happen:
+
+- If God forbid, World war 3 happen, who will save the world.
+
+>>>>
+# procrastination
+
+1. to be slow or late about doing something that should be done; to delay doing something until a later time because you do not want to do it, because you are lazy, etc.
+
+- He procrastinated and missed the submission deadline.
+- Some people are procrastinators when it comes to paying their bills.
+
+>>>>
+# conglomerate (/kənˈɡlɒm.ər.ət/)
+
+1. a company that owns several smaller businesses whose products or services are usually very different:
+
+- Tata is a conglomerate
+
+>>>>
+# scant
+
+1. very little and not enough:
+
+- Food was in scant supply.
+- She paid scant attention to the facts.
+
+>>>>
+# ecstasy (/ˈek.stə.si/ )
+
+1. a state of extreme happiness, especially when feeling pleasure:
+
+- We shared a moment of ecstasy as the chocolate melted on our tongues.
+
+>>>>
+# paradoxical
+
+1. seeming impossible or difficult to understand because of containing two opposite facts or characteristics
+
+- It seems paradoxical to me, but if you drink a cup of hot tea it seems to cool you down.
+- The movie was made with a little money and a lot of chutzpah
+
+>>>>
+# chutzpah (/ˈhʊtspə/ )
+
+1. personal confidence or courage that allows someone to do or say things that may seem shocking to others
+
+- It took a lot of chutzpah [=nerve] to stand up to him the way she did.
+- The movie was made with a little money and a lot of chutzpah
+
+>>>>
+# vitiated
+
+1. to make something less effective : to ruin or spoil (something)
+
+- The impact of the film was vitiated by poor acting.
+- Once a top institute, it is vitiated over time.
+
+>>>>
+# lofty
+
+1. very high; with great height
+
+- Politicians very often make very lofty promises, which they fail to deliver.
+
+>>>>
+# articulation
+
+1. the way in which you express your feelings, thoughts and ideas, etc., in words
+
+- The book is the articulation of his vision.
+- They way he articulated his vision, that was just brilliant.
+
+>>>>
+# inane
+
+1. extremely silly or with no real meaning or importance
+
+- He's always making inane remarks.
+- He grinned inanely.
+
+>>>>
+# discrete
+
+1. individually separate and distinct.
+
+- speech sounds are produced as a continuous sound signal rather than discrete units
+
+>>>>
+
+# realm
+
+1. an area of interest or activity
+
+- Her interests are in the realm of practical politics.
+- It's my realm.
+
+>>>>
+
+# oblivious
+
+1. not aware of or not noticing something, esp. what is happening around you
+
+- Absorbed in her work, she was totally oblivious of her surroundings.
+
+>>>>
+
+# oblivion
+
+1. the state of being completely forgotten or destroyed.
+
+- Her work was rescued from oblivion when it was rediscovered in the early 1900s.
+
+>>>>
+
+# concur
+
+1. to agree or have the same opinion
+
+- We concur that more money should be spent on education.
+
+>>>>
+# succinct
+
+1. said in a clear and short way; expressing what needs to be said without unnecessary words
+
+- Keep your letter succinct and to the point.
+
+>>>>
+# quail
+
+1. to want to be able to move away from something because you fear it
+
+- Charlie quailed at the sound of his mother's angry voice.
+- She quailed before her boss's anger.
+
+>>>>
+# figurative
+
+1. When a word or sentence used with a meaning that is different from it's literal meaning; "tons of work" or ""
+
+- I hear you've got a new job (not literally, but figurative).
+- I have tons of work (not literally, but figurative).
+
+``
+When speech or writing is not literal, it is figurative, like when you say you have a ton of homework. You don't really have 2000 pounds of homework, do you?
+Also, The phrase “know your ropes” means literally “to know a lot about ropes,” while its figurative meaning is “to know a lot about how to do something.”
+``
+
+>>>>
+# foresee
+
+1. to know or guess about something before it happens:
+
+- I don't foresee any difficulties so long as we keep within budget.
+
+>>>>
+# pretentious
+
+1. trying to appear or sound more important or clever than you are, especially in matters of art and literature
+
+- a pretentious art critic.
+- I always found him pretentious, when he speak.
+
+>>>>
+# peculiar
+
+1. unusual and strange, sometimes in an unpleasant way
+
+- She has the most peculiar ideas.
+- What a peculiar smell!
+- She got a peculiar feeling when the phone rang.
+- She had a peculiar expression on her face.
+
+>>>>
 # deceased
 
 1. no longer living; A person who has recently died, days or years
