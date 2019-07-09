@@ -10,7 +10,7 @@
         "copy": "cp public/data dist/data",
         "start": "webpack-dev-server  --open --config webpack.dev.js",
         "build": "webpack --config webpack.prod.js",
-        "publish": "git add .; git commit -m 'publish';git push"
+        "publish": "npm run parse-all;git add .; git commit -m 'publish';git push"
     },
     "author": "Praveen Singh",
     "license": "ISC",

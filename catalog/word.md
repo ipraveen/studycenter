@@ -1,3 +1,89 @@
+# pragmatism
+
+1. a reasonable and logical way of doing things or of thinking about problems that is based on dealing with specific situations instead of on ideas and theories
+
+- Let's keep theory aside and take more practical and pragmatic approach.
+- The right person for the job will balance vision with pragmatism.
+
+>>>>
+# utopian
+
+1. relating to or aiming for a perfect society in which everyone works well with each other and is happy:
+
+- a utopian vision.
+
+>>>>
+
+# contemplate/contemplating
+
+""" /ˈkɒn.təm.pleɪt/
+1. To look at on all sides or in all its aspects; To consider as a possibility.
+
+- I'm contemplating leaving my job.
+
+>>>>
+# hullabaloo
+
+""" /ˌhʌl.ə.bəˈluː/
+1. a loud noise made by people who are angry or annoyed; a lot of angry comments made in public about someone or something:
+
+- There's a crowd of angry demonstrators making a real hullabaloo outside the Houses of Parliament.
+
+>>>>
+# constellation
+
+1. a group of famous or admired people all together in one place;any of the groups of stars in the sky that seem from earth to form a pattern and have been given names
+
+- At our annual ceremony we had a whole constellation of movie stars and directors.
+
+>>>>
+# narcissistic
+
+1. having too much interest in and admiration for yourself:
+
+- I found her to be self-absorbed and narcissistic.
+
+>>>>
+# outlier
+
+1. a person, thing, or fact that is very different from other people, things, or facts, so that it cannot be used to draw general conclusions
+
+- The poll that showed him increasing support by 5 points was probably an outlier.
+
+>>>>
+# oxymoron
+
+1. a phrase or statement that seems to say two opposite things, like "agree to disagree"
+
+- My room is an organized mess.
+- Act naturally
+- Agree to disagree.
+- He lived for the cause, by dying for it. What a Oxymoron.
+
+>>>>
+# dejected
+
+1. unhappy, disappointed, or without hope
+
+- She looked a bit dejected when they told her she didn't get the job
+
+>>>>
+# acrimonious
+
+1. angry and bitter (typically of speech or discussion)
+
+- an acrimonious debate
+- acrimonious disputes between nations
+- He went through an acrimonious divorce.
+
+>>>>
+# counter-intuitive
+
+1. different from what you would expect : not agreeing with what seems right or natural
+
+- It may seem counterintuitive, but we do burn calories when we are sleeping
+
+>>>>
 # bliss
 
 1. perfect happiness
@@ -78,7 +164,7 @@
 1. seeming impossible or difficult to understand because of containing two opposite facts or characteristics
 
 - It seems paradoxical to me, but if you drink a cup of hot tea it seems to cool you down.
-- The movie was made with a little money and a lot of chutzpah
+- Sometime to do more you have to do less. Such a Paradox!
 
 >>>>
 # chutzpah (/ˈhʊtspə/ )
