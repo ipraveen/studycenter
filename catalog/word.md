@@ -1,9 +1,74 @@
-# pragmatism
+# exemplify
 
-1. a reasonable and logical way of doing things or of thinking about problems that is based on dealing with specific situations instead of on ideas and theories
+1. to be a very good example of (something) : to show (something) very clearly
 
-- Let's keep theory aside and take more practical and pragmatic approach.
-- The right person for the job will balance vision with pragmatism.
+- His works exemplify the taste of the period.
+- The city's economic growth is exemplified by the many new buildings that are currently under construction.
+>>>>
+# stoop
+
+1. lower one's moral standards so far as to do something reprehensible.
+
+- Don't stoop so low for money.
+>>>>
+# quorum
+
+1. the smallest number of people needed to be present at a meeting before it can officially begin and before official decisions can be taken.
+
+- We can start our meeting as we have quorum now.
+>>>>
+# quid pro quo
+
+1. Something that is given to a person in return for something they have done, often use in a bad sense.
+
+- Judges often get quid pro quo from government for favourable their verdicts.
+>>>>
+# prudent
+
+1. careful and avoiding risks:
+
+- It's always prudent to read a contract carefully before signing it.
+>>>>
+# renaissance
+
+1. a situation or period of time when there is a new interest in something that has not been popular in a long time; A period of new growth or activity
+
+- The JavaScript renaissance is upon us.
+>>>>
+# idiosyncrasy (idio-syn-crasy)
+
+1. a strange or unusual habit, way of behaving, or feature that someone or something has:
+
+- One of her many idiosyncrasies is always smelling a book before opening it
+- web is littered with examples of each browser's idiosyncrasies
+>>>>
+# albeit (Al-be-it)
+
+1. despite the stated thing; although:
+
+- The nation is adapting, albeit slowly, to the new global economy.
+- The evening was very pleasant, albeit a little quiet.
+>>>>
+# confidant
+
+1. a person with whom one shares a secret or private matter, trusting them not to repeat it to others.
+
+- He is a close confidant of King.
+
+>>>>
+# incommunicado
+
+1. not communicating with anyone else because you do not want to or are not allowed to:
+
+- He is in incommunicado after he lost the match.
+- He was held incommunicado for the first 48 hours after he was arrested.
+
+>>>>
+# moratorium
+
+1. a temporary prohibition of an activity.;a delay or suspension of an activity or a law
+
+- The RBI has imposed a moratorium on YES Bank.
 
 >>>>
 # utopian
